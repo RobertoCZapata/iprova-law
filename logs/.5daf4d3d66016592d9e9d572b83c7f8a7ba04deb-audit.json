@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/roberto.zapata/Documents/iprova-law/logs/.5daf4d3d66016592d9e9d572b83c7f8a7ba04deb-audit.json",
+    "files": [
+        {
+            "date": 1706001401131,
+            "name": "/Users/roberto.zapata/Documents/iprova-law/logs/error-2024-01-23.log",
+            "hash": "bf64ec2a54ba9b2814e22134c2f29640"
+        }
+    ]
+}
