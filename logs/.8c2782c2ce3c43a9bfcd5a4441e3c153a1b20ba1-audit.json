@@ -1,14 +1,19 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "/Users/roberto.zapata/Documents/iprova-law/logs/.8c2782c2ce3c43a9bfcd5a4441e3c153a1b20ba1-audit.json",
+  "files": [
+    {
+      "date": 1706001401133,
+      "name": "/Users/roberto.zapata/Documents/iprova-law/logs/keplerCliNative-2024-01-23.log",
+      "hash": "8968ef2fa13b03e8060e7c34acf0ad0a"
     },
-    "auditLog": "/Users/roberto.zapata/Documents/iprova-law/logs/.8c2782c2ce3c43a9bfcd5a4441e3c153a1b20ba1-audit.json",
-    "files": [
-        {
-            "date": 1706001401133,
-            "name": "/Users/roberto.zapata/Documents/iprova-law/logs/keplerCliNative-2024-01-23.log",
-            "hash": "8968ef2fa13b03e8060e7c34acf0ad0a"
-        }
-    ]
+    {
+      "date": 1706217343704,
+      "name": "/Users/roberto.zapata/Documents/iprova-law/logs/keplerCliNative-2024-01-25.log",
+      "hash": "640feb515fa0013893fca1a7df68903e"
+    }
+  ]
 }
