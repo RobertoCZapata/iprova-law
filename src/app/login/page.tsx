@@ -17,7 +17,7 @@ import { grey } from '@mui/material/colors';
 
 const color = grey[800];
 
-const Login = () => {
+export default function Page ()  {
   const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
@@ -72,5 +72,3 @@ const Login = () => {
     </Container>
   );
 };
-
-export default Login;
